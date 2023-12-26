@@ -1,3 +1,5 @@
 *.log
 app1/
 __pycache__.py
+__pycache__/
+*.sqlite3
