@@ -1,6 +1,6 @@
 line 1 - edited
 line 3 - edited
-line 4 - edited 
+line 4 - edited bug fix 
 line 5 - created
 line 6 - created
 line 7 - create
